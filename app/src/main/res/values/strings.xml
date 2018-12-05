@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Callmni</string>
+
+    <!-- Login and register activities ui -->
+    <string name="signup">SignUP</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="already_have_an_account">Already Have an account ?</string>
+    <string name="loading">Loading</string>
+
+    <!-- MainActivity -->
+    <string name="settings">Settings</string>
+    <string name="contact">Contacts</string>
+    <string name="messages">Messages</string>
+    <string name="logout_message">Are you sure you want to log out ?</string>
+    <string name="send_a_message">Send a message</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Messages fragment -->
+    <string name="no_messages">Currently you have no messages , go to Contacts to start a conversation</string>
+
+    <!-- error handling messages -->
+    <string name="required_field">Please make sure you fill this field</string>
+    <string name="enter_valid_email">Please make sure you enter a valid email</string>
+    <string name="password_too_short">Please make sure that your password is at least 6 characters </string>
+    <string name="verify_inputs">Please verify your inputs</string>
+
+    <!-- calculate time methode -->
+    <string name="now" formatted="false">"At the moment"</string>
+    <string name="befor_year" formatted="false">"%s year ago"</string>
+    <string name="befor_month" formatted="false">"%s month ago"</string>
+    <string name="befor_week" formatted="false">"%s week ago"</string>
+    <string name="befor_day" formatted="false">"%s day ago"</string>
+    <string name="befor_years" formatted="false">"%s years ago"</string>
+    <string name="befor_months" formatted="false">"%s months ago"</string>
+    <string name="befor_weeks" formatted="false">"%s weeks ago"</string>
+    <string name="befor_days" formatted="false">"%s days ago"</string>
+    <string name="befor_hours" formatted="false">"%s hours ago"</string>
+    <string name="befor_minutes" formatted="false">"%s min ago"</string>
+    <string name="befor_seconds" formatted="false">"%s secondes ago"</string>
+
+    <!-- Menu -->
+    <string name="search">Search</string>
+    <string name="logout">Logout</string>
+
+
+</resources>
